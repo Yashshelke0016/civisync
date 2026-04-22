@@ -1,0 +1,25 @@
+Things to add :
+
+user should sign in to report an issue after reporting an issue user should get a copy of the report and after the resolve of the report the user should get civipoints to which he can redeem to trace subscriptions of major applications such as Netflix Spotify amazon prime hot star Disney you tube etc.  also he he can redeem to get some cashback coupons and gift cards so this will be ht use of the points
+add a database to store all the report of the issues the details of the user and al the information 
+we have to sent the copy of the report to the mail that is mentioned in the report issue column form the user.
+also add a page that what were the side effects of ignoreing these issues also add images of accidents becuse of pothols lack of resources due to wastage , and public safety. 
+
+
+Things to improve :
+
+make the civiBot multilingual at least 3 languages hindi , Marathi and English
+user should sign in in his account to report
+after reporting user should get a extra copy of this report in his mail and also get a resolved copy to his mail and points in his civisync app .
+the describe the issue page should be changes that page should take all the necessary information from the user such as his mail id mobile number full name and his address to which has reporting the issue the address should be in dropdown , also ask images of the issue the user is reporting (1 mb  max size acceptable)
+after login each and everythingsd should be remain same but only the reportissue tab changes from signin signup to reprt  issue .
+change the name of the points to civipoints 
+also add a section where the user can redeam these points for example : 100000 civipoints for 1 month netfix premium 50000 for amazon prime etc.
+    
+
+Altho it has a great workflow and UI.
+
+
+-----------------------------------------------------RESOLVED---------------------------------------------=-----------------
+NEW ISSUE:
+where i can see all the responses for the website as the administrator.
